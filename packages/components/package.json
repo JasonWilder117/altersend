@@ -73,7 +73,7 @@
     "react-strict-dom": "^0.0.55"
   },
   "devDependencies": {
-    "@babel/core": "^7.26.10",
+    "@babel/core": "^8.0.7",
     "@storybook/addon-a11y": "^10.2.13",
     "@storybook/addon-docs": "^10.2.13",
     "@storybook/react-vite": "^10.2.13",
@@ -85,6 +85,6 @@
     "storybook": "^10.2.13",
     "typescript": "^5.9.3",
     "vite": "^8.0.5",
-    "vitest": "^4.1.8"
+    "vitest": "^5.0.4"
   }
 }
